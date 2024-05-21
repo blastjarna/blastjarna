@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blastjarna
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning more
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on the faults in my code
 - 📫 How to reach me ...
