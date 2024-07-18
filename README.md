@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @blastjarna
-- 👀 I’m interested in learning more
-- 🌱 I’m currently learning Python, Pandas, Git and much more
-- 💞️ I’m looking to collaborate on the faults in my code
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I have loads of houseplants
+##Data Analyst with a passion for working with data. 
 
-<!---
-blastjarna/blastjarna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have excellent digital skills including  understanding of SQL and experience of data handling using Excel, Power Bi and  Python (Pandas) amongst others. My excellent data analysis skills enable me to collect, organise, and interpret data effectively to support decision-making in any project. I can work with many stakeholders and customers to bring the most impactful solutions. I thrive both independently and as part of a team, maintaining a flexible and positive attitude while supporting business goals and contributing to a collaborative team culture.
